@@ -1,6 +1,6 @@
 # csPortfolio
 
-* Web page [here](https://ockwigc.github.io/OckwigWebPage2/)
+* Web page  [here](https://ockwigc.github.io/OckwigWebPage2/)
 * Lightning!  [here](https://ockwigc.github.io/lightning2/)
 * ChallengingCode!
 ```Java
