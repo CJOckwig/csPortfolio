@@ -2,7 +2,7 @@
 
 * Web page  [here](https://ockwigc.github.io/OckwigWebPage2/)
 * Lightning!  [here](https://ockwigc.github.io/lightning2/)
-* Dice  [here](https://ockwigc.github.io/Dice3/)
+* Dice  [here](https://ockwigc.github.io/dice3/)
 * ChallengingCode!
 ```Java
 void mousePressed()
