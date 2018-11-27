@@ -2,6 +2,9 @@
 <details> 
   <summary>Web Page</summary> 
   <a href="https://ockwigc.github.io/OckwigWebPage2/">Link!</a>
+  
+  <h1> About the project </h1>
+  <p> I enjoyed it. </p>
   </details>
   
   
@@ -27,6 +30,7 @@
   
   <details> <summary> College Presentation </summary>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vTOROAp5601MPr28pQ-yjpbVH7zN_lOFOv4SHpJflWcWFjNYG-UB2A5JB_5MDFEKUerzCmiDd7gl286/pub?start=false&loop=false&delayms=3000">Link!</a>
+  </details>
 * ChallengingCode!
 
 ```Java
@@ -48,7 +52,3 @@ void mousePressed()
     text("click here for White", 600, 50);
   }
   ```
-
-_test_
-# H1 test
-## H2 test
