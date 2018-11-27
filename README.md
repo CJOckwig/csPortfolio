@@ -3,18 +3,20 @@
   <summary><b>Web Page</b></summary> 
   <a href="https://ockwigc.github.io/OckwigWebPage2/">Link!</a>
   
-  <h1> About the project </h1>
-  <p> I enjoyed it. </p>
+ 
+  <p> <b>About the Project</b> <br>I enjoyed it. </p>
   </details>
   <br>
 
   <details> 
   <summary><b> Lightning!</b></summary>
   <a href="https://ockwigc.github.io/lightning2/">Link!</a>
+  
+  <p>
   </details>
   <br>
 
-  <details><summary> <b>dice</b> </summary>
+  <details><summary> <b>Dice</b> </summary>
   <a href="https://ockwigc.github.io/dice3/">Link!</a>
   </details>
   <br>
