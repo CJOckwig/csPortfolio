@@ -1,6 +1,6 @@
 # _Caleb Ockwig's Computer Science Portfolio!_
 <details> 
-  <summary>Web Page</summary> 
+  <summary><b>Web Page</b></summary> 
   <a href="https://ockwigc.github.io/OckwigWebPage2/">Link!</a>
   
   <h1> About the project </h1>
@@ -9,12 +9,12 @@
   <br>
 
   <details> 
-  <summary> Lightning!</summary>
+  <summary><b> Lightning!</b></summary>
   <a href="https://ockwigc.github.io/lightning2/">Link!</a>
   </details>
   <br>
 
-  <details><summary> dice </summary>
+  <details><summary> <b>dice</b> </summary>
   <a href="https://ockwigc.github.io/dice3/">Link!</a>
   </details>
   <br>
