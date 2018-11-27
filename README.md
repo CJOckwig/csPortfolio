@@ -4,7 +4,7 @@
   <a href="https://ockwigc.github.io/OckwigWebPage2/">Link!</a>
   
  
-  <p> <b>About the Project</b> <br>I enjoyed it. </p>
+  <p> <b>About the Project</b> <br>I thought it was a good way to introduce HTML and CSS into the course. Some problematic areas were lining up the pictures and getting them to show correctly. Other than that I was able to use html to create bodies and headers, and even links to websites (I used the same things here for these links) Anyway, If you wanna see some good pictures of my dog! click it.</p>
   </details>
   <br>
 
