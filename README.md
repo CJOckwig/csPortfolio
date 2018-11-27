@@ -24,6 +24,8 @@
 
   <details> <summary> <b>Chemotaxis </b></summary>
   <a href="https://ockwigc.github.io/chemotaxis4/">Link!</a>
+  <p> <b>About the Project</b> <br> The hardest part of this was to make the shapes follow you up until it is a box around you. After that they move in a random pattern which brings them around the box where they _might_ be able to touch the mouse.
+  </p>
   </details>
   <br>
 
