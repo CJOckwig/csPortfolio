@@ -22,18 +22,18 @@
   </details>
   <br>
 
-  <details> <summary> Chemotaxis </summary>
+  <details> <summary> <b>Chemotaxis </b></summary>
   <a href="https://ockwigc.github.io/chemotaxis4/">Link!</a>
   </details>
   <br>
 
-  <details><summary> Starfield </summary>
+  <details><summary><b> Starfield</b> </summary>
   <a href="https://ockwigc.github.io/starfield5/">Link!</a>
   <p> <b>About the Project</b> <br> This project offered more experience using the Math class such as Math.cos() and Math.sin(). The hardest part was getting the particles to bounce around the screen and using an interface. </p>
   </details>  
   <br>
 
-  <details> <summary> College Presentation </summary>
+  <details> <summary><b> College Presentation </b></summary>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vTOROAp5601MPr28pQ-yjpbVH7zN_lOFOv4SHpJflWcWFjNYG-UB2A5JB_5MDFEKUerzCmiDd7gl286/pub?start=false&loop=false&delayms=3000">Link!</a>
   </details>
 * ChallengingCode!
