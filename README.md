@@ -1,4 +1,4 @@
-# csPortfolio
+# _Caleb Ockwig's Computer Science Portfolio!_
 <details> 
   <summary>Web Page</summary> 
   [Link!](https://ockwigc.github.io/OckwigWebPage2/)
@@ -7,9 +7,15 @@
   <summary> Lightning!</summary>
 I dont know what im doing wrong but heres a   [Link](https://ockwigc.github.io/lightning2/)
   </details>
+  <details><summary> dice </summary>
 * Dice  [here](https://ockwigc.github.io/dice3/)
+  </details>
+  <details> <summary> Chemotaxis </summary>
 * Chemotaxis  [here](https://ockwigc.github.io/chemotaxis4/)
+  </details>
+  <details><summary> Starfield </summary>
 * Starfield  [here](https://ockwigc.github.io/starfield5/)
+  </details>
 * College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTOROAp5601MPr28pQ-yjpbVH7zN_lOFOv4SHpJflWcWFjNYG-UB2A5JB_5MDFEKUerzCmiDd7gl286/pub?start=false&loop=false&delayms=3000)
 * ChallengingCode!
 
