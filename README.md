@@ -7,28 +7,28 @@
   <p> I enjoyed it. </p>
   </details>
   <br>
-  <br>
+
   <details> 
   <summary> Lightning!</summary>
   <a href="https://ockwigc.github.io/lightning2/">Link!</a>
   </details>
   <br>
-  <br>
+
   <details><summary> dice </summary>
   <a href="https://ockwigc.github.io/dice3/">Link!</a>
   </details>
   <br>
-  <br>
+
   <details> <summary> Chemotaxis </summary>
   <a href="https://ockwigc.github.io/chemotaxis4/">Link!</a>
   </details>
   <br>
-  <br>
+
   <details><summary> Starfield </summary>
   <a href="https://ockwigc.github.io/starfield5/">Link!</a>
   </details>  
   <br>
-  <br>
+
   <details> <summary> College Presentation </summary>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vTOROAp5601MPr28pQ-yjpbVH7zN_lOFOv4SHpJflWcWFjNYG-UB2A5JB_5MDFEKUerzCmiDd7gl286/pub?start=false&loop=false&delayms=3000">Link!</a>
   </details>
