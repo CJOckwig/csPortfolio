@@ -1,7 +1,7 @@
 # csPortfolio
 <details> 
   <summary>Web Page</summary>
-* Web page  [here](https://ockwigc.github.io/OckwigWebPage2/)
+[Link!](https://ockwigc.github.io/OckwigWebPage2/)
   </details>
   
 * Lightning!  [here](https://ockwigc.github.io/lightning2/)
