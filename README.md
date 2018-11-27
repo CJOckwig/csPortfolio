@@ -1,11 +1,12 @@
 # csPortfolio
 <details> 
-  <summary>Web Page</summary>
-  <br>
-[Link!](https://ockwigc.github.io/OckwigWebPage2/)
+  <summary>Web Page</summary> <br>
+  [Link!](https://ockwigc.github.io/OckwigWebPage2/)
   </details>
-  
+  <details> 
+  <summary> Lightning!</summary>
 * Lightning!  [here](https://ockwigc.github.io/lightning2/)
+  </details>
 * Dice  [here](https://ockwigc.github.io/dice3/)
 * Chemotaxis  [here](https://ockwigc.github.io/chemotaxis4/)
 * Starfield  [here](https://ockwigc.github.io/starfield5/)
