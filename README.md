@@ -11,7 +11,7 @@
   <details> 
   <summary><b> Lightning!</b></summary>
   <a href="https://ockwigc.github.io/lightning2/">Link!</a>
-  
+  <p> <b>About the Project</b> <br> I thought this project was fun. I had some tough time starting out but I figured it out and initally the 'lightning' was supposed to be one color but I thought it looked cooler with it being random and changing color so I kept it. Another feature I added was sthe ability to clear away the screen by making a simple button of if the mouse is clicked between X and Y and then just making the screen either black or white. </p>
   <p>
   </details>
   <br>
