@@ -1,11 +1,11 @@
 # csPortfolio
 <details> 
-  <summary>Web Page</summary> <br>
+  <summary>Web Page</summary> 
   [Link!](https://ockwigc.github.io/OckwigWebPage2/)
   </details>
   <details> 
   <summary> Lightning!</summary>
-* Lightning!  [here](https://ockwigc.github.io/lightning2/)
+I dont know what im doing wrong but heres a   [Link](https://ockwigc.github.io/lightning2/)
   </details>
 * Dice  [here](https://ockwigc.github.io/dice3/)
 * Chemotaxis  [here](https://ockwigc.github.io/chemotaxis4/)
