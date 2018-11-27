@@ -18,6 +18,7 @@
 
   <details><summary> <b>Dice</b> </summary>
   <a href="https://ockwigc.github.io/dice3/">Link!</a>
+  <p> <b>About the Project</b> <br> This project was good at re-introducing the Math class and Math.random(). It was fun to make it random colors too. The most challenging part was making the counter. I initially had it as a void method but that wasn't changing the sum the way I wanted it to so I ended up changing it to an int method which solved my issue.</p>
   </details>
   <br>
 
@@ -28,6 +29,7 @@
 
   <details><summary> Starfield </summary>
   <a href="https://ockwigc.github.io/starfield5/">Link!</a>
+  <p> <b>About the Project</b> <br> This project offered more experience using the Math class such as Math.cos() and Math.sin(). The hardest part was getting the particles to bounce around the screen and using an interface. </p>
   </details>  
   <br>
 
