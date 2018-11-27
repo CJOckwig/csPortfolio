@@ -59,3 +59,4 @@ void mousePressed()
     text("click here for White", 600, 50);
   }
   ```
+This code was challenging because I had issues with it play repeatedly and I wouldnt be able to see the lightning. I solved this issue by setting new parameters on where the mouse had to be pressed specifically.
