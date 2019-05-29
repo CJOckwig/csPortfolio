@@ -46,23 +46,41 @@
   
   * ChallengingCode!
 
+
+
 ```Java
-void mousePressed()
-{   
-  if (mouseX<300&&mouseY<200) {
-    background(0);
-    fill(255);
-    text("click here for Black", 0, 50);
+  Scanner scan=new Scanner(f);
+      while (scan.hasNextLine()) {
+        String line=scan.nextLine();
+        String [] dat=line.split(" ");
+        int i = 0;
+        String name=dat[i];
+        i++;
+        while (!isNum(dat[i])) {
+          name+= " "+dat[i];
+          i++;
+        }
+        int dexNo=parseInt(dat[i]); 
+        i+=4;
+        String types=""+dat[i];
+        types=types+" "+dat[i+1];
+        i+=2;
+        String abil="";
+        for (int z=i; z<dat.length; z++) {
+          abil=abil+dat[z]+" ";
+        }
+        if (dex.get(name)==null) {
+          dex.put(name, new ArrayList<String>());
+        }
+        dex.get(name).add(""+dexNo);
+        dex.get(name).add(types);
+        dex.get(name).add(abil);
+      }
+    }
+    catch(Exception e) {
 
-    text("click here for White", 600, 50);
-  }
-
-  if (mouseX>600&&mouseX<900&&mouseY<200) {
-    background(255);
-    fill(0);
-    text("click here for Black", 0, 50);
-
-    text("click here for White", 600, 50);
+      e.printStackTrace();
+    }
   }
   ```
-This code was challenging because I had issues with it play repeatedly and I wouldnt be able to see the lightning. I solved this issue by setting new parameters on where the mouse had to be pressed specifically.
+This code was challenging because it was the first time I've had to read from a file. I had to write a method that would check if a string could be parsed int a double and if it couldn't I would know that it was a pokemon with a two or three word name. All of this would add into the map which would be the pokemon.
