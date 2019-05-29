@@ -39,6 +39,7 @@
   <details> <summary><b> College Presentation </b></summary>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vTOROAp5601MPr28pQ-yjpbVH7zN_lOFOv4SHpJflWcWFjNYG-UB2A5JB_5MDFEKUerzCmiDd7gl286/pub?start=false&loop=false&delayms=3000">Link!</a>
   </details>
+  
 <details><summary><b> Pokedex</b></summary>
   <p><b>About the project:</b>This project I was given the freedoms of making whatever I wanted as long as I used a map. The challengng part was reading the data files, then assinging a value of stats, a pokedex number, and type to a Pokemon key. This is probably the project I am most proud of because it peaked my interest, and is something I am very interested in.
   <a href="https://imgur.com/a/am1KeBe">Link!</a>
