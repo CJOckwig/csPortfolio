@@ -31,6 +31,7 @@
   <br>
 
   <details><summary><b> Starfield</b> </summary>
+   <img src="starfieldpic.png">
   <a href="https://ockwigc.github.io/starfield5/">Link!</a>
   <p> <b>About the Project</b> <br> This project offered more experience using the Math class such as Math.cos() and Math.sin(). The hardest part was getting the particles to bounce around the screen and using an interface. </p>
   </details>  
