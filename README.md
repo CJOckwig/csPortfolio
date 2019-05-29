@@ -43,7 +43,7 @@
 <details><summary><b> Pokedex</b></summary>
   <p><b>About the project:</b>This project I was given the freedoms of making whatever I wanted as long as I used a map. The challengng part was reading the data files, then assinging a value of stats, a pokedex number, and type to a Pokemon key. This is probably the project I am most proud of because it peaked my interest, and is something I am very interested in.
    <video width="500" height="400">
-   <source src="pokedexExample.mp4" type=video/mp4>
+   <source src="pokedexExample.mp4"/>
     </video>
   </details>
   
